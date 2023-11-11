@@ -1,3 +1,15 @@
-# Proj1
+# UE5 TP Template
 
-Developed with Unreal Engine 5
+​	UE基本第三人称模板，学习用，视频链接：https://www.bilibili.com/video/BV1Rj411w78h
+
+​	内含有以下几个重点：
+
+* 输入
+* 动画状态机
+* 简单的UI和切换（进入关卡）
+* 关卡跳转
+* 事件分发器（类似于C++中回调函数）
+* 碰撞检测
+* 动画重定向（多骨骼共享动画）
+* UE内置表格
+* 调出运行时控制台
